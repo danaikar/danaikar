@@ -5,7 +5,7 @@ I am a Computer Science graduate passionate about **bioinformatics, machine lear
 ## 🔬 About Me
 Currently focused on **bioinformatics and machine learning**, I recently completed my **final-year dissertation**, where I compared **deep learning methods with traditional approaches for protein function prediction**.
 
-💻 As a **Computer Science student at the University of Athens**, I worked extensively with **C/C++ and Python**, gaining deep experience in **Linux environments**.
+As a **Computer Science student at the University of Athens**, I worked extensively with **C/C++ and Python**, gaining deep experience in **Linux environments**.
 
 ## 🛠️ Technologies & Skills
 - **Programming**: C | C++ | Python | Java
